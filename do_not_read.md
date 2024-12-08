@@ -13,4 +13,5 @@
 > For chrome/chromium browsers, you can use the extension [EditThisCookie](https://chromewebstore.google.com/detail/editthiscookie/ojfebgpkimhlhcblbalbfjblapadhbol) to *eat* your cookies.
 
 > For iPad, you can use the app [Cookie-Editor](https://apps.apple.com/us/app/cookie-editor/id6446215341) to *eat* your cookies.
+ Note that you have to use Safari as browser.
 
