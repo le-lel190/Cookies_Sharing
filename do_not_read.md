@@ -15,3 +15,6 @@
 > For iPad users, you can use the app [Cookie-Editor](https://apps.apple.com/us/app/cookie-editor/id6446215341) to *eat* your cookies.
  Note that you have to use Safari as browser.
 
+After installing the extension/app, you should know that the cookies are stored in the file `cookies.json`. <br>
+You should copy the cookies from the file `cookies.json`, <br>
+and then import the cookies on the website by using the **import function** of the extension/app.
