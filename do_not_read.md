@@ -18,3 +18,9 @@
 After installing the extension/app, you should know that the cookies are stored in the file `cookies.json`. <br>
 You should copy the cookies from the file `cookies.json`, <br>
 and then import the cookies on the website by using the **import function** of the extension/app.
+
+
+### Reminder
+
+**Always toggle the incognito mode and delete thread after use.**
+![Alt text](img/example.png "example")
