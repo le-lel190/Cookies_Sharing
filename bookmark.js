@@ -6,7 +6,6 @@ javascript: (function() {
         document.body.appendChild(node);
         navigator.clipboard.writeText(data).then(() => {
             document.body.removeChild(node);
-            // alert('Cookies copied to clipboard!');
         }).catch(error => {
             console.error('Error copying to clipboard:', error);
             alert('Failed to copy cookies to clipboard.');
