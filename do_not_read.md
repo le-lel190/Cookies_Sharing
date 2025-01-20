@@ -24,3 +24,6 @@ and then import the cookies on the website by using the **import function** of t
 
 **Always toggle the incognito mode and delete thread after use.**
 ![Alt text](img/example.png "example")
+
+
+**Use bookmark.js for easier execution.**
