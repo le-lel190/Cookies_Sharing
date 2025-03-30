@@ -1,0 +1,78 @@
+[
+    {
+        "domain": ".perplexity.ai",
+        "expirationDate": 1743322692.78271,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "Z.TKCRhlkKuM8a9fGnPyHsfV4jM0wOdSKXF6wWhAaBM-1743320892-1.0.1.1-a4p72vjHYtWIAfi_KIZ535UZ6YmKYBFYQwHo2P58KK4F.ATbzFVN2i3WBhO9l6ViGw7QIVdou_rfzrtaAcFhOm54vaK1grZOwN4QhAGXIcU"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "next-auth.csrf-token",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "b037a7420eccd563de93a054e95e5f37198a571116f5dcaf0e03b85291015b9a%7C25e572c3bcbdfad9b61c3744c1eb8268c9a041934c18b68a0187635db28b5e37"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1743925987.365743,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "AWSALBCORS",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "obqTjRZdcwD7n3n0eqBHWBAkqdLDT9YGwwmco6OzHMpR8jM9nXh7y9WG9trGqugH5o6vLgJWJIM2qL8bsqNIU11gILut83p0VEnjIpuRL1U/HTsDV7MkHH2gJctXKkc38QcgTkFkhHPUdRL4Pz90H9x2OFxocRqUq4unxf5mMvTC0EDn3olO1RWvK4iajA=="
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1743403692.782739,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__cflb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "02DiuDyvFMmK5p9jVbVnMNSKYZhUL9aGkxzULxxW3MA5z"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1745913173.610454,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.session-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..RDjPRx-u0UAwqaZF.RYzrVrCeq6cSYBjTik7AUmGEW_ojxV6F_5eTnNeanWn1zXDj1V5j_g93rugSPKhNWJOv5LNCsYQkJTfaZ4GFlJIVSEgYFsA_Y88qVmW3KLz20cRBuLCicdfc08Ih3tJ_-q6qloupzHDrjgkQPIwHiLHauAqeN71kP_XGLJSFt-2THUGgp2khhIkVAFek5s0DQaODv1YcHEk.A77Ox3AJuazAzbvxqZPotQ"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "next-auth.callback-url",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fsignin-callback%3Fredirect%3Dhttps%253A%252F%252Fwww.perplexity.ai%252F%253Flogin-source%253DloginButton"
+    }
+]
