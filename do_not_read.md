@@ -4,7 +4,7 @@
 
 ### Getting your own cookies
 1. The "cookies" will be updated in this repository.
-2. It will be updated every 7 days. **Don't eat expired cookies.**
+2. It will be updated if it should be. **Don't eat expired cookies.**
 3. You should get your own cookies from the file `cookies.json`.
 
 
