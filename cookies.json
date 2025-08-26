@@ -1,7 +1,45 @@
 [
     {
+        "domain": "www.perplexity.ai",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "pplx.session-id",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": true,
+        "storeId": null,
+        "value": "90cc2abf-5409-42bc-bae8-24c74f233bd5"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1790775826,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "pplx.metadata",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "{%22qc%22:1%2C%22qcu%22:6387%2C%22qcm%22:1317%2C%22qcc%22:6155%2C%22qcr%22:0%2C%22qcco%22:0%2C%22qcdr%22:0%2C%22qcs%22:0%2C%22qcd%22:0%2C%22hli%22:true%2C%22hcga%22:false%2C%22hcds%22:false%2C%22hso%22:false%2C%22hfo%22:false%2C%22hsma%22:false%2C%22fqa%22:1756215813793%2C%22lqa%22:1756215813793}"
+    },
+    {
         "domain": ".perplexity.ai",
-        "expirationDate": 1756191747.344169,
+        "expirationDate": 1762851309,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_rdt_uuid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1739986750787.66dbc4d3-30aa-466a-b78d-847c718ec4ac"
+    },
+    {
+        "domain": ".perplexity.ai",
+        "expirationDate": 1756217559.164207,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__cf_bm",
@@ -10,7 +48,33 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "ZGXyhq70ZyBBQdlKPOupq.yrD7rR8Re2xIt_u_r28r8-1756189945-1.0.1.1-Th3Dx7oijul3FhvUEG_S_TxXjvDwe7g1mGnAW9VPSsJjz2jOe6Kvr.1KlgHeqHHrH_5vXqmyJrF5ttqcuhQA8gxNM40Zza_aa_LEMArilHY"
+        "value": "ShAXrktXhwQ0pZkG1NPxh2LybyJYWCJnsoUlIE5T7CA-1756215759-1.0.1.1-9CSCoXxOtmnkvNLcAUXk4p_zrl9ECBaY5UR7kxtTnh18u7D_x1jPoi_t0ckFL80l4._XTEt56HniCugJFCXL3f0.XpBJ79IfuLuR3PqapRc"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1756216732,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_dd_s",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "aid=c4c80f2e-d85e-480f-9a76-33c6f78ff388&rum=2&id=3abb688b-a847-4aca-a477-e15ae9294326&created=1756215759168&expire=1756216727537&logs=0"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1787751759.049317,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "pplx.visitor-id",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "7b74b82b-812c-4674-9896-dda086a6579c"
     },
     {
         "domain": "www.perplexity.ai",
@@ -22,11 +86,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "18ee6284d6e5cfe20fdf00131326f38c92150c5c2d82fa65595a0d612a330a1c%7Ca11937bcca72b5667b56ed5335f80bf33beda3f4fb16e94aa3262b7ab3c600ed"
+        "value": "f703fdb4a7eff3aabd17a4a5b83b203caecbd03f6da1f74d7a365fa3a79a8675%7C0577fc00baa67c4fce283ff5363a5bc2c91f5ac36f7c7046c79b0a7cab3e7bae"
     },
     {
         "domain": "www.perplexity.ai",
-        "expirationDate": 1756794826.356354,
+        "expirationDate": 1756820602.68663,
         "hostOnly": true,
         "httpOnly": false,
         "name": "AWSALBCORS",
@@ -35,11 +99,24 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "HDTwCZHKPtoZ4Qog28mkxXYajGzKNNoGgmTevwZQUhRt+UPkWIcKQL7DE7/vNhmf7CBX8gtj/jRZYIDR3GxXcsROuVzT9h5biW6iWPl6nIGAnR/kcImuDaP/c5bG"
+        "value": "s1sXY3r9gmhTvkS+yS/W3jW2g9du84xWaWg/2HL/L5GktSO1S3EG0r47TrDdYqN/WmvoJSB2/iC8/T4BBFH6YhB2AcDeWiY6o5Q9VlMsNI3CDKOIROy907hxUPjG"
     },
     {
         "domain": "www.perplexity.ai",
-        "expirationDate": 1756445547,
+        "expirationDate": 1790775800,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "sidebarHiddenHubs",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "[]"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1756281721.286485,
         "hostOnly": true,
         "httpOnly": true,
         "name": "__cflb",
@@ -48,11 +125,50 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "02DiuDyvFMmK5p9jVbVnMNSKYZhUL9aGmjpvQKyLN88SQ"
+        "value": "02DiuDyvFMmK5p9jVbVnMNSKYZhUL9aGmvN6nCpvSRz2Q"
+    },
+    {
+        "domain": ".perplexity.ai",
+        "expirationDate": 1764122591.182962,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__podscribe_perplexityai_landing_url",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "https://www.perplexity.ai/auth/verify-request?email=per99plexity1%402925.com&redirectUrl=https%3A%2F%2Fwww.perplexity.ai%2F%3Flogin-source%3DwelcomeBack"
+    },
+    {
+        "domain": ".perplexity.ai",
+        "expirationDate": 1764122591.183007,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__podscribe_perplexityai_referrer",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "_"
+    },
+    {
+        "domain": ".perplexity.ai",
+        "expirationDate": 1785568113,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__ps_fva",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1754032113519"
     },
     {
         "domain": "www.perplexity.ai",
-        "expirationDate": 1758782025.549035,
+        "expirationDate": 1758807802.686707,
         "hostOnly": true,
         "httpOnly": true,
         "name": "__Secure-next-auth.session-token",
@@ -61,11 +177,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..NWc1xZTQn1N4w686.8_y0lgb-zwf1d-3jLMiEG9oIvzl74hWOmciymvLKtYQmGPfXpU4Mm5w8vPhSUe2XFwMbvb_zl0wMVqVUVIB6xjkRJN6IjfDOCxtPClbFuVgp7CNtRZxb0piiFASpa7VxIqGN8qL4tbWIdtpfQWAKdbJD5h2F-CJPTNOUHMB0DxPTwpYLb1FFGsRoJfSadMTOThlzAswEKK8xS3ZsKoqNxiIlUtB23KjEttOqYmXG7d1L4afgnSINoaA63GFtu_RwnJ1ujgR1vDK46M6VgeH2VlTPD4zTrCTayVyymY_bsLfiCTHyLarZlX2ryzJJpZAMwBIoTA-RiLVVNoHyuoO8VtqQxFCu12w5FrO955MYyIMgtoX7OBB83fXQpsyv1F7Mrd4HMpPamf9Kq72W2KR9.kgLOnQyer64dKXz4w08_cg"
+        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..AldGIJ5UeheYD4Lt.gYhN11jwAwpPDw52W5iREFpjjQSpdJbI0SAl8vxekv8cuaBSdloYHZpmYYaR3ui6hhSHxtqj4cOYiEsHjA9WDpu0OruMPbMgcAklNpXM_GhnS9gReMkZrHN7KgnMTJbZgbVqKJpvaQKPsDodypa0rDJZA6DxsTTe1hAgZOGaVMjR4fLbCnyG1Zu16gQR8BEwRcS0YFSnlNqnyxVESG_O32g-2u4UwIscSwL60v17tSqthABu-6I5NX2uQPJnRK5SqeBttDpigN_ptiDiGryYvGLWf-ttuUrlJnpmOXUKA1w1u61pIFTPMoOUkDcv_os0Z70AlDPGH4mJqJhloqCoONl7gI0eyIKGZzEmgzwKvLYzSZMhbwlCbV2uagAjHR7jpr_U0OxJnz33CZ-nC1S_.grnUFDqo4XEb3mKg8yZBdA"
     },
     {
         "domain": ".www.perplexity.ai",
-        "expirationDate": 1787726026,
+        "expirationDate": 1787751828,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__stripe_mid",
@@ -74,11 +190,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1c0ffe12-7557-44fb-9a93-832204e782509478c4"
+        "value": "6ceae114-728f-45c6-9ffc-157488f86a0c3e6517"
     },
     {
         "domain": ".www.perplexity.ai",
-        "expirationDate": 1756191826,
+        "expirationDate": 1756217628,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__stripe_sid",
@@ -87,7 +203,20 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "13f57814-ea7a-4c5e-9808-537726e38770f18e76"
+        "value": "db1eb275-a99f-4a89-8911-b26702f41dcee53906"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1756820602.686514,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "AWSALB",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "s1sXY3r9gmhTvkS+yS/W3jW2g9du84xWaWg/2HL/L5GktSO1S3EG0r47TrDdYqN/WmvoJSB2/iC8/T4BBFH6YhB2AcDeWiY6o5Q9VlMsNI3CDKOIROy907hxUPjG"
     },
     {
         "domain": "www.perplexity.ai",
@@ -100,5 +229,44 @@
         "session": true,
         "storeId": null,
         "value": "https%3A%2F%2Fwww.perplexity.ai%2Fapi%2Fauth%2Fsignin-callback%3Fredirect%3Dhttps%253A%252F%252Fwww.perplexity.ai%252F%253Flogin-source%253DsignupButton%2523locale%253Den-US"
+    },
+    {
+        "domain": ".perplexity.ai",
+        "expirationDate": 1764122591.183204,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ph_phc_TXdpocbGVeZVm5VJmAsHTMrCofBQu3e0kN8HGMNGTVW_posthog",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22distinct_id%22%3A%22019229cb-b274-7b21-8f5d-2db6cbc3af03%22%2C%22%24sesid%22%3A%5B1746607787283%2C%220196a9ef-76e0-777a-b015-386892637a6f%22%2C1746607765216%5D%7D"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1790775803,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "pplx.personal-search-badge-seen",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "{%22sidebar%22:true%2C%22settingsSidebar%22:false%2C%22personalize%22:false}"
+    },
+    {
+        "domain": "www.perplexity.ai",
+        "expirationDate": 1790775807,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "pplx.search-models-v4",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "{%22search%22:%22gpt5%22}"
     }
 ]
